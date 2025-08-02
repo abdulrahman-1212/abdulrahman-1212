@@ -14,7 +14,7 @@ Hi, I'm a passionate developer with a keen interest in AI, robotics, and system 
 - **Areas of Interest**: Artificial Intelligence, Computer Vision, Embedded Systems, Multi-Agent Systems, Robotics, Signal Processing,
 
 ## 🚀 Featured Projects
-- **[Adaptive Research and Innovation Agent Ecosystem]([link-to-repo](https://github.com/abdulrahman-1212/Adaptive-Multi-Agent-Research-System))**: A multi-agent system built with Python, FastAPI, and SQLite, using open-source LLMs like distilgpt2 to fetch, analyze, and generate research ideas from the arXiv API.
+- **[Adaptive Research and Innovation Agent Ecosystem]([https://github.com/abdulrahman-1212/Adaptive-Multi-Agent-Research-System])**: A multi-agent system built with Python, FastAPI, and SQLite, using open-source LLMs like distilgpt2 to fetch, analyze, and generate research ideas from the arXiv API.
 - **[Radar Signal Processing Toolkit](link-to-repo)**: A modular C++20 toolkit for generating, filtering, and detecting radar signals, featuring Doppler processing and Barker code generation.
 - **[Low Latency Rust based LLM inference Server](link-to-repo)**: A high-performance Rust server utilizing hyper and tch (Rust bindings for PyTorch) to provide low-latency inference for large language models, exposing a REST API for efficient text generation and processing.
 - **[VLM based Image Captioning Flask App](link-to-repo)**: A Flask-based web application powered by Vision-Language Models (VLMs) to generate descriptive captions for images, featuring a user-friendly interface and optimized inference for real-time captioning.
