@@ -26,7 +26,7 @@ Hi, I'm a passionate developer with a keen interest in AI, robotics, and system 
 Check out my [Repositories](https://github.com/[abdulrahman-1212]?tab=repositories) for more!
 
 ## 📊 GitHub Stats
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=[abdulrahman-1212]&show_icons=true&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=[abdulrahman-1212]&layout=compact&theme=radical)
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=abdulrahman-1212&show_icons=true&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=abdulrahman-1212&layout=compact&theme=radical)
 
 Feel free to explore my repositories, star ⭐ my projects, or reach out if you'd like to collaborate or discuss tech ideas!
