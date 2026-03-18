@@ -18,7 +18,6 @@ Hi, I'm a passionate developer with a strong interest in Dynamical Systems, Comp
 - **[Double Pendulum Modelling using Lagrangian Neural Net (LNN)](https://github.com/abdulrahman-1212/double-pendulum-lnn)**
 - **[Multimodal Sensor Fusion (LiDAR + Camera)](https://github.com/abdulrahman-1212/-Enhanced-Camera-LiDAR-Object-Candidates-Fusion-with-Attention-based-Fusion)**
 - **[Radar Signal Processing Toolkit](https://github.com/abdulrahman-1212/Radar-Signal-Processing-Toolkit)**
-- **[VLM based Image Captioning Flask App](https://github.com/abdulrahman-1212/VLM-Image-Captioning-Flask-App)**
 - **[AV Control System using Cascaded PID and MPC](https://github.com/CURT-FS/Control)**
 - **[Quantized MobileNet SSD for COCO dataset Object Detection](https://github.com/abdulrahman-1212/Quantized-MobileNet-SSD-COCO-Object-Detection)**
 
