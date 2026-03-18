@@ -16,7 +16,7 @@ Hi, I'm a passionate developer with a strong interest in Dynamical Systems, Comp
 ## 🚀 Featured Projects
 - **[PINN for 2D Laminar Flow Around a Circular Particle Simualtion](https://github.com/abdulrahman-1212/2D_Laminar_Flow_around_Particle_PINN)**
 - **[Double Pendulum Modelling using Lagrangian Neural Net (LNN)](https://github.com/abdulrahman-1212/double-pendulum-lnn)**
-- **[Diabetes Diagnosis System](https://github.com/abdulrahman-1212/Diabetes-Prediction-SVM_Random-Forest)**
+- **[Multimodal Sensor Fusion (LiDAR + Camera)](https://github.com/abdulrahman-1212/-Enhanced-Camera-LiDAR-Object-Candidates-Fusion-with-Attention-based-Fusion)**
 - **[Radar Signal Processing Toolkit](https://github.com/abdulrahman-1212/Radar-Signal-Processing-Toolkit)**
 - **[VLM based Image Captioning Flask App](https://github.com/abdulrahman-1212/VLM-Image-Captioning-Flask-App)**
 - **[AV Control System using Cascaded PID and MPC](https://github.com/CURT-FS/Control)**
