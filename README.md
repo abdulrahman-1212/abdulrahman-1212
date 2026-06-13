@@ -15,12 +15,11 @@ Hi, I'm a passionate developer with a strong interest in Dynamical Systems, Comp
 
 ## 🚀 Featured Projects
 - **[PINN for 2D Laminar Flow Around a Circular Particle Simualtion](https://github.com/abdulrahman-1212/2D_Laminar_Flow_around_Particle_PINN)**
+- **[Fast&Efficient Object Detection using Quantized MobileNet SSD](https://github.com/abdulrahman-1212/Quantized-MobileNet-SSD-COCO-Object-Detection)**
 - **[Double Pendulum Modelling using Lagrangian Neural Net (LNN)](https://github.com/abdulrahman-1212/double-pendulum-lnn)**
 - **[Multimodal Sensor Fusion (LiDAR + Camera)](https://github.com/abdulrahman-1212/-Enhanced-Camera-LiDAR-Object-Candidates-Fusion-with-Attention-based-Fusion)**
 - **[Radar Signal Processing Toolkit](https://github.com/abdulrahman-1212/Radar-Signal-Processing-Toolkit)**
 - **[AV Control System using Cascaded PID and MPC](https://github.com/CURT-FS/Control)**
-- **[Quantized MobileNet SSD for COCO dataset Object Detection](https://github.com/abdulrahman-1212/Quantized-MobileNet-SSD-COCO-Object-Detection)**
-
 
 Check out my [Repositories](https://github.com/[abdulrahman-1212]?tab=repositories) for more!
 
