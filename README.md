@@ -14,6 +14,7 @@ Hi, I'm a passionate developer with a strong interest in Dynamical Systems, Comp
 - **Areas of Interest**: Dynamical Systems, Computational Fluid Dynamics (CFD), Scientific Computing, Numerical Simulation, Control Systems, Autonomous Systems, Robotics.
 
 ## 🚀 Featured Projects
+- **[Efficient LLaVA Inference Engine using C++](https://github.com/abdulrahman-1212/Efficient-LLaVA-Inference-Engine-using-Cpp)**
 - **[PINN for 2D Laminar Flow Around a Circular Particle Simualtion](https://github.com/abdulrahman-1212/2D_Laminar_Flow_around_Particle_PINN)**
 - **[Fast&Efficient Object Detection using Quantized MobileNet SSD](https://github.com/abdulrahman-1212/Quantized-MobileNet-SSD-COCO-Object-Detection)**
 - **[Fawanees: An Efficient Cartoonization Tool](https://github.com/abdulrahman-1212/Fawanees)**
