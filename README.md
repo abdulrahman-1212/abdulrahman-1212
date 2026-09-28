@@ -10,7 +10,7 @@ Hi, I'm a passionate developer with a strong interest in Dynamical Systems, Comp
 
 ## 🛠️ Skills
 - **Languages**: Python, C/C++, MATLAB.
-- **Frameworks & Tools**: OpenFoam, SU2, PyTorch, MPI, OpenMP, CUDA
+- **Frameworks & Tools**: OpenFoam, SU2, ParaView PyTorch, MPI, OpenMP, CUDA
 - **Areas of Interest**: Dynamical Systems, Computational Fluid Dynamics (CFD), Scientific Computing, Numerical Simulation, Adjoint Optimization
 
 ## 🚀 Featured Projects
