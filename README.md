@@ -3,15 +3,15 @@
 Hi, I'm a passionate developer with a strong interest in Dynamical Systems, Computational Fluid Dynamics (CFD), and physics-based modeling. I enjoy building modular, efficient, and scientifically grounded solutions, often combining numerical simulation, scientific computing, and modern programming practices. This is my space to share projects, experiments, and contributions related to simulation, modeling, and engineering systems.
 
 ## 🌟 About Me
-- 🔭 Currently working on: Leading the Formula Student Driverless Team at Cairo University for FSAI UK 2026.
-- 🌱 Learning: Computational Fluid Dynamics using OpenFOAM, numerical methods for dynamical systems, physics-informed machine learning, and accelerated computing.
-- 💼 Experience: Developing simulation-driven engineering systems, robotics simulations, control algorithms, and scientific computing workflows.
-- 📫 How to reach me: (https://www.linkedin.com/in/abdulrahman-mahmoud-7b78891a4/)
+- 🔭 Currently: DSP & AI Engineer
+- 🌱 Learning: GPU Programming using CUDA.
+- 💼 Experience: GSoC'26 @ SU2.
+- 📫 How to reach me: (https://www.linkedin.com/in/abdulrahman-m-saadeldin-7b78891a4/)
 
 ## 🛠️ Skills
-- **Languages**: Python, C/C++ (C++20), Rust.
-- **Frameworks & Tools**: OpenFoam, SU2, PyTorch, CUDA, OpenCV, ROS
-- **Areas of Interest**: Dynamical Systems, Computational Fluid Dynamics (CFD), Scientific Computing, Numerical Simulation, Control Systems, Autonomous Systems, Robotics.
+- **Languages**: Python, C/C++, MATLAB.
+- **Frameworks & Tools**: OpenFoam, SU2, PyTorch, MPI, OpenMP, CUDA
+- **Areas of Interest**: Dynamical Systems, Computational Fluid Dynamics (CFD), Scientific Computing, Numerical Simulation, Adjoint Optimization
 
 ## 🚀 Featured Projects
 - **[Efficient LLaVA Inference Engine using C++](https://github.com/abdulrahman-1212/Efficient-LLaVA-Inference-Engine-using-Cpp)**
